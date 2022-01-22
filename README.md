@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  Acesse a Home do YouTube Clicando <a target="_blank" href="#">AQUI</a>!
+  Acesse a Home do YouTube Clicando <a target="_blank" href="https://eltonalmeid.github.io/homePageYT/">AQUI</a>!
 </h2>
 
 <p align="center">
